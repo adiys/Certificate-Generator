@@ -21,7 +21,7 @@ To run this script, you need to have the following software installed on your sy
 1. Clone the repository to your local machine or server:
 
 ```sh
-git clone https://github.com/ServiceToMankind/digital-certificate-generator-and-mail.git
+git clone https://github.com/ServiceToMankind/certificate-generator.git
 ```
 
 2. Install PHP dependencies via Composer:
